@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\rosal\source\repos\calculator\Calculator.cpp(8,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Calculator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  calculator.vcxproj -> C:\Users\rosal\source\repos\calculator\x64\Debug\calculator.exe

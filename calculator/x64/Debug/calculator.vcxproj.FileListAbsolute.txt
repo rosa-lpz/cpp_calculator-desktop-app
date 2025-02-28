@@ -1,0 +1,3 @@
+C:\Users\rosal\source\repos\calculator\calculator\x64\Debug\calculator.vcxproj.AssemblyReference.cache
+C:\Users\rosal\source\repos\calculator\calculator\x64\Debug\calculator.Calculator.resources
+C:\Users\rosal\source\repos\calculator\calculator\x64\Debug\calculator.vcxproj.GenerateResource.cache
