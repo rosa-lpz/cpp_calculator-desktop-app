@@ -1,6 +1,5 @@
 # C++ Calculator App
 
-Calculator App in C++ (GUI)
 
 ## Description
 This is a simple calculator application built using **C++** and **C++/CLI** with a graphical user interface (GUI). The application was developed in **Visual Studio** and allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The app features a clean and easy-to-use interface for users to input values and perform calculations.
