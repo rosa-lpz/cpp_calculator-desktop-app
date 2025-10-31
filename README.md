@@ -1,4 +1,4 @@
-# C++ Calculator App
+# C++ Calculator Desktop App
 
 
 ## Description
